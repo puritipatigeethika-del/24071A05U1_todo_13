@@ -20,6 +20,11 @@ body {
   margin: auto;
 }
 
+.task.overdue {
+  border: 1px solid red;
+  background-color: #ffe5e5;
+}
+
 
 .todo-wrapper {
   width: 100%;
